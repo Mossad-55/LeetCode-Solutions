@@ -30,7 +30,7 @@ Each problem is stored in a separate class or within a folder categorized by top
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/LeetCode-Solutions.git
+   git clone https://github.com/Mossad-55/LeetCode-Solutions.git
    ```
 2. **Navigate to the desired problem folder**.
 3. **Open the solution file and review the implementation**.
