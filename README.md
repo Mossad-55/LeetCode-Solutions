@@ -9,18 +9,18 @@ Each problem is stored in a separate class or within a folder categorized by top
 ```
 /LeetCode-Solutions
 │── /Easy
-│    ├── TwoSum.java
-│    ├── PalindromeNumber.py
+│    ├── TwoSum.cs
+│    ├── PalindromeNumber.cs
 │    ├── ...
 │
 │── /Medium
-│    ├── AddTwoNumbers.java
-│    ├── LongestSubstringWithoutRepeatingCharacters.cpp
+│    ├── AddTwoNumbers.cs
+│    ├── LongestSubstringWithoutRepeatingCharacters.cs
 │    ├── ...
 │
 │── /Hard
-│    ├── MergeKSortedLists.py
-│    ├── TrappingRainWater.cpp
+│    ├── MergeKSortedLists.cs
+│    ├── TrappingRainWater.cs
 │    ├── ...
 │
 │── README.md
