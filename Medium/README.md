@@ -7,6 +7,7 @@ This directory contains solutions to **Medium** level problems from LeetCode. Ea
 | # | Problem Name | Solution File | LeetCode Link |
 |---|-------------|--------------|---------------|
 | 1 | Group Anagrams | [GroupAnagrams.cs](GroupAnagrams.cs) | [🔗 Group Anagrams 49](https://leetcode.com/problems/group-anagrams/) |
+| 1 | Top K Frequent Elements | [TopKFrequestElements.cs](TopKFrequestElements.cs) | [🔗 Top K Frequent Elements 347](https://leetcode.com/problems/top-k-frequent-elements/) |
 
 ---
 

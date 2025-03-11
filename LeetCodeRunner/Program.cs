@@ -26,4 +26,8 @@ foreach(var lis in res){
 }
 Console.WriteLine();
 
-// 
+// Top K Freqent Elements Test Case
+Console.WriteLine("Top K Frequent Elements Test Case (1 / 1):");
+Console.WriteLine("Input: nums = [1,1,1,2,2,3], k = 2");
+var topKFrequentElements = TopKFrequentElements.Solve([1,1,1,2,2,3], 2);
+Console.Write($"Output : [{topKFrequentElements[0]},{topKFrequentElements[1]}]");
