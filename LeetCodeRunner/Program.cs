@@ -30,4 +30,12 @@ Console.WriteLine();
 Console.WriteLine("Top K Frequent Elements Test Case (1 / 1):");
 Console.WriteLine("Input: nums = [1,1,1,2,2,3], k = 2");
 var topKFrequentElements = TopKFrequentElements.Solve([1,1,1,2,2,3], 2);
-Console.Write($"Output : [{topKFrequentElements[0]},{topKFrequentElements[1]}]");
+Console.WriteLine($"Output : [{topKFrequentElements[0]},{topKFrequentElements[1]}]");
+
+// Encode and Decode Strings Test Case
+Console.WriteLine("Enconde and Decode Strings Test Case (1 / 1):");
+Console.WriteLine("Input: strs = [\"I\", \"Love\", \"C#\"]");
+var encodedStr = EncodeAndDecodeStrings.Encode(["I", "Love", "C#"]);
+Console.WriteLine($"The Encoded string: {encodedStr}");
+var decodedStrs = EncodeAndDecodeStrings.Decode(encodedStr);
+Console.WriteLine($"The Decoded string: [\"{decodedStrs[0]}\", \"{decodedStrs[1]}\", \"{decodedStrs[2]}\"]");
