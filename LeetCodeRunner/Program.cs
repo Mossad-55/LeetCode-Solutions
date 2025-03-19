@@ -39,3 +39,9 @@ var encodedStr = EncodeAndDecodeStrings.Encode(["I", "Love", "C#"]);
 Console.WriteLine($"The Encoded string: {encodedStr}");
 var decodedStrs = EncodeAndDecodeStrings.Decode(encodedStr);
 Console.WriteLine($"The Decoded string: [\"{decodedStrs[0]}\", \"{decodedStrs[1]}\", \"{decodedStrs[2]}\"]");
+
+// Product of Array Except Self Test Case
+Console.WriteLine("Product of Array Except Self Test Case (1 / 1):");
+Console.WriteLine("Input: nums = [1,2,3,4]");
+var res2 = ProductOfArrayExceptSelf.Solve([1,2,3,4]);
+Console.WriteLine($"Output: result = [{res2[0]},{res2[1]},{res2[2]},{res2[3]}]");
