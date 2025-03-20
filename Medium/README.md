@@ -10,7 +10,7 @@ This directory contains solutions to **Medium** level problems from LeetCode. Ea
 | 2 | Top K Frequent Elements | [TopKFrequestElements.cs](TopKFrequentElements.cs) | [🔗 Top K Frequent Elements 347](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 3 | Encode and Decode Strings | [EncodeAndDecodeStrings.cs](EncodeAndDecodeStrings.cs) | [🔗 Encode And Decode Strings 659 (LintCode)](https://www.lintcode.com/problem/659/) |
 | 4 | Product of Array Except Self | [ProductOfArrayExceptSelf.cs](ProductOfArrayExceptSelf.cs) | [🔗 Product of Array Except Self 238](https://leetcode.com/problems/product-of-array-except-self/) |
-
+| 5 | Valid Sudoku | [ValidSudoku.cs](ValidSudoku.cs) | [🔗 Valid Sudoku 36](https://leetcode.com/problems/valid-sudoku/description/) |
 ---
 
 🚀 Keep solving and improving! 💡

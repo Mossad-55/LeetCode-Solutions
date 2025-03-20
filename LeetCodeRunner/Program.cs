@@ -45,3 +45,5 @@ Console.WriteLine("Product of Array Except Self Test Case (1 / 1):");
 Console.WriteLine("Input: nums = [1,2,3,4]");
 var res2 = ProductOfArrayExceptSelf.Solve([1,2,3,4]);
 Console.WriteLine($"Output: result = [{res2[0]},{res2[1]},{res2[2]},{res2[3]}]");
+
+// I'm not going to do it for the sudoku thingy :) DIY
