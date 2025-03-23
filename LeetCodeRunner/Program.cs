@@ -53,3 +53,8 @@ Console.WriteLine("Longest Consecutive Sequence Test Case (1 / 1):");
 Console.WriteLine("Input: nums = [100,4,200,1,3,2]");
 Console.WriteLine($"Output: {LongestConsecutiveSequence.Solve([100,4,200,3,2,1])}");
 Console.WriteLine("Explanation: the longest consecutive elements sequence is [1, 2, 3, 4]. Therefore its length is 4.");
+
+// Valid Palindrome Test Case
+Console.WriteLine("Valid Palindrome Test Case (1 / 1):");
+Console.WriteLine("Input: s = \"A man, a plan, a canal: Panama\"");
+Console.WriteLine($"Output: {ValidPalindrome.Solve("A man, a plan, a canal: Panama")}");
