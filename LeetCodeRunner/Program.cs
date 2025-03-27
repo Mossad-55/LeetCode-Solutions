@@ -58,3 +58,9 @@ Console.WriteLine("Explanation: the longest consecutive elements sequence is [1,
 Console.WriteLine("Valid Palindrome Test Case (1 / 1):");
 Console.WriteLine("Input: s = \"A man, a plan, a canal: Panama\"");
 Console.WriteLine($"Output: {ValidPalindrome.Solve("A man, a plan, a canal: Panama")}");
+
+// Two Sum II - Input Array Is Sorted
+Console.WriteLine("Two Sum II Test Case (1 / 1):");
+Console.WriteLine("Input: nums = [2,7,11,15], target = 9");
+var twoSumII = TwoSumII.Solve([2,7,11,15], 9); 
+Console.WriteLine($"Output: [{twoSumII[0]}, {twoSumII[1]}]");

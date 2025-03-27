@@ -12,6 +12,7 @@ This directory contains solutions to **Medium** level problems from LeetCode. Ea
 | 4 | Product of Array Except Self | [ProductOfArrayExceptSelf.cs](ProductOfArrayExceptSelf.cs) | [🔗 Product of Array Except Self 238](https://leetcode.com/problems/product-of-array-except-self/) |
 | 5 | Valid Sudoku | [ValidSudoku.cs](ValidSudoku.cs) | [🔗 Valid Sudoku 36](https://leetcode.com/problems/valid-sudoku/) |
 | 6 | Longest Consecutive Sequence | [LongestConsecutiveSequence.cs](LongestConsecutiveSequence.cs) | [🔗 Longest Consecutive Sequence 128](https://leetcode.com/problems/longest-consecutive-sequence/) |
+| 7 | Two Sum II - Input Array Is Sorted | [TwoSumII.cs](TwoSumII.cs) | [🔗 Two SUM II - Input Array Is Sorted 167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 ---
 
 🚀 Keep solving and improving! 💡
