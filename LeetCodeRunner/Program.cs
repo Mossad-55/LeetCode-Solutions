@@ -59,8 +59,14 @@ Console.WriteLine("Valid Palindrome Test Case (1 / 1):");
 Console.WriteLine("Input: s = \"A man, a plan, a canal: Panama\"");
 Console.WriteLine($"Output: {ValidPalindrome.Solve("A man, a plan, a canal: Panama")}");
 
-// Two Sum II - Input Array Is Sorted
+// Two Sum II - Input Array Is Sorted Test Case
 Console.WriteLine("Two Sum II Test Case (1 / 1):");
 Console.WriteLine("Input: nums = [2,7,11,15], target = 9");
 var twoSumII = TwoSumII.Solve([2,7,11,15], 9); 
 Console.WriteLine($"Output: [{twoSumII[0]}, {twoSumII[1]}]");
+
+// 3Sum Test Case
+Console.WriteLine("3Sum Test Case (1 / 1)");
+var THREESOME = ThreeSum.Solve([-1, 0, 1, 2, -1, -4]);
+Console.WriteLine("Input: nums = [-1, 0, 1, 2, -1, -4]");
+Console.WriteLine($"Output: [[{THREESOME[0][0]}, {THREESOME[0][1]}, {THREESOME[0][2]}], [{THREESOME[1][0]}, {THREESOME[1][1]}, {THREESOME[1][2]}]]");
