@@ -70,3 +70,8 @@ Console.WriteLine("3Sum Test Case (1 / 1)");
 var THREESOME = ThreeSum.Solve([-1, 0, 1, 2, -1, -4]);
 Console.WriteLine("Input: nums = [-1, 0, 1, 2, -1, -4]");
 Console.WriteLine($"Output: [[{THREESOME[0][0]}, {THREESOME[0][1]}, {THREESOME[0][2]}], [{THREESOME[1][0]}, {THREESOME[1][1]}, {THREESOME[1][2]}]]");
+
+// Container With Most Water Test Case
+Console.WriteLine("Container With Most Water Test Case (1 / 1)");
+Console.WriteLine("Input: heights = [1, 8, 6, 2, 5, 4, 8, 3, 7]");
+Console.WriteLine($"Output: {ContainerWithMostWater.Solve([1, 8, 6, 2, 5, 4, 8, 3, 7])}");

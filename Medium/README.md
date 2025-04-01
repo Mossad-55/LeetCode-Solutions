@@ -14,6 +14,7 @@ This directory contains solutions to **Medium** level problems from LeetCode. Ea
 | 6 | Longest Consecutive Sequence | [LongestConsecutiveSequence.cs](LongestConsecutiveSequence.cs) | [🔗 Longest Consecutive Sequence 128](https://leetcode.com/problems/longest-consecutive-sequence/) |
 | 7 | Two Sum II - Input Array Is Sorted | [TwoSumII.cs](TwoSumII.cs) | [🔗 Two SUM II - Input Array Is Sorted 167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 8 | 3Sum | [ThreeSum.cs](ThreeSum.cs) | [🔗 3Sum 15](https://leetcode.com/problems/3sum/) |
+| 9 | Container With Most Water | [ContainerWithMostWater.cs](ContainerWithMostWater.cs) | [🔗 Container With Most Water 11](https://leetcode.com/problems/container-with-most-water/) |
 ---
 
 🚀 Keep solving and improving! 💡
