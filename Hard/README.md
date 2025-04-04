@@ -6,7 +6,7 @@ This directory contains solutions to **Hard** level problems from LeetCode. Each
 
 | # | Problem Name | Solution File | LeetCode Link |
 |---|-------------|--------------|---------------|
-| - | - | [ - ]( - ) | [🔗 - ]( - ) |
+| 1 | Trapping Rain Water | [TrappingRainWater.cs](TrappingRainWater.cs) | [🔗 Trapping Rain Water 42](https://leetcode.com/problems/trapping-rain-water/) |
 
 ---
 

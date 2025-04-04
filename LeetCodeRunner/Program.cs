@@ -1,4 +1,5 @@
 ﻿using Easy;
+using Hard;
 using Medium;
 
 // Contains Duplicate Test Case
@@ -75,3 +76,8 @@ Console.WriteLine($"Output: [[{THREESOME[0][0]}, {THREESOME[0][1]}, {THREESOME[0
 Console.WriteLine("Container With Most Water Test Case (1 / 1)");
 Console.WriteLine("Input: heights = [1, 8, 6, 2, 5, 4, 8, 3, 7]");
 Console.WriteLine($"Output: {ContainerWithMostWater.Solve([1, 8, 6, 2, 5, 4, 8, 3, 7])}");
+
+// Trapping Rain Water Test Case
+Console.WriteLine("Trapping Rain Water Test Case (1 / 1)");
+Console.WriteLine("Input: heights = [0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]");
+Console.WriteLine($"Output: {TrappingRainWater.Solve([0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1])}");
