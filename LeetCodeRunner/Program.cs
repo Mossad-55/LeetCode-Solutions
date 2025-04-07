@@ -81,3 +81,8 @@ Console.WriteLine($"Output: {ContainerWithMostWater.Solve([1, 8, 6, 2, 5, 4, 8, 
 Console.WriteLine("Trapping Rain Water Test Case (1 / 1)");
 Console.WriteLine("Input: heights = [0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]");
 Console.WriteLine($"Output: {TrappingRainWater.Solve([0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1])}");
+
+// Best Time To Buy and Sell Stock Test Case
+Console.WriteLine("Best Time To Buy and Sell Stock Test Case (1 / 1)");
+Console.WriteLine("Input: prices = [10, 1, 5, 6, 7, 1]");
+Console.WriteLine($"Output: {BestTimeToBuyAnsSell.Solve([10, 1, 5, 6, 7, 1])}");
