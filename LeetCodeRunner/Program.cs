@@ -86,3 +86,8 @@ Console.WriteLine($"Output: {TrappingRainWater.Solve([0, 1, 0, 2, 1, 0, 1, 3, 2,
 Console.WriteLine("Best Time To Buy and Sell Stock Test Case (1 / 1)");
 Console.WriteLine("Input: prices = [10, 1, 5, 6, 7, 1]");
 Console.WriteLine($"Output: {BestTimeToBuyAnsSell.Solve([10, 1, 5, 6, 7, 1])}");
+
+// Longest Substring Without Repeating Characters Test Case
+Console.WriteLine("Longest Substring Without Repeating Characters Test Case (1 / 1)");
+Console.WriteLine("Input: s = \"absdabcbb\"");
+Console.WriteLine($"Output: {LongestSubStringWithoutRepeating.Solve("absdabcbb")}");
