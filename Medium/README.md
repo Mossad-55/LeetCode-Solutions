@@ -16,6 +16,7 @@ This directory contains solutions to **Medium** level problems from LeetCode. Ea
 | 8 | 3Sum | [ThreeSum.cs](ThreeSum.cs) | [🔗 3Sum 15](https://leetcode.com/problems/3sum/) |
 | 9 | Container With Most Water | [ContainerWithMostWater.cs](ContainerWithMostWater.cs) | [🔗 Container With Most Water 11](https://leetcode.com/problems/container-with-most-water/) |
 | 10 | Longest Substring Without Repeating Characters | [LongestSubStringWithoutRepeating.cs](LongestSubStringWithoutRepeating.cs) | [🔗 Longest Substring Without Repeating Characters 3]() |
+| 11 | Longest Repeating Character Replacement | [LongestRepeatingCharacterReplacement.cs](LongestRepeatingCharacterReplacement.cs) | [🔗 Longest Repeating Character Replacement 424](https://leetcode.com/problems/longest-repeating-character-replacement/) |
 ---
 
 🚀 Keep solving and improving! 💡

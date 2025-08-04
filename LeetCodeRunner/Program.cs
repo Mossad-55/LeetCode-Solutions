@@ -91,3 +91,8 @@ Console.WriteLine($"Output: {BestTimeToBuyAnsSell.Solve([10, 1, 5, 6, 7, 1])}");
 Console.WriteLine("Longest Substring Without Repeating Characters Test Case (1 / 1)");
 Console.WriteLine("Input: s = \"absdabcbb\"");
 Console.WriteLine($"Output: {LongestSubStringWithoutRepeating.Solve("absdabcbb")}");
+
+// Longest Repeating Character Replacement Test Case
+Console.WriteLine("Longest Repeating Character Replacement Test Case (1 / 1)");
+Console.WriteLine("Input: s = \"AABABBA\", k = 1");
+Console.WriteLine($"Output: {LongestRepeatingCharacterReplacement.Solve("AABABBA", 1)}");
